@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-02 12:51:35,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-09 12:55:06,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1018,10 +1018,12 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
 中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
+中华小当家,https://live.ottiptv.cc/huya/11342413
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
